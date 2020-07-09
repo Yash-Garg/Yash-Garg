@@ -27,6 +27,4 @@ I'm Yash Garg, a developer who is passionate about new web/android technologies 
 - 💬 Ask me about: Tech, memes, series
 - 😄  Pronouns: He/Him 🙍🏻‍♂️
 
----
-### Contact 📱
-[![Twitter Badge](https://img.shields.io/badge/-@yashgarg1803-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yashgarg1803)](https://twitter.com/yashgarg1803) [![Linkedin Badge](https://img.shields.io/badge/-yashgarg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-garg-716a63164/)](https://www.linkedin.com/in/yash-garg-716a63164/) [![Gmail Badge](https://img.shields.io/badge/-gyash428@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailtogyash428@gmail.com)](mailto:gyash428@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-@yashgarg1803-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/yashgarg1803)](https://twitter.com/yashgarg1803) [![Linkedin Badge](https://img.shields.io/badge/-yashgarg-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yash-garg-716a63164/)](https://www.linkedin.com/in/yash-garg-716a63164/)
