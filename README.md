@@ -20,7 +20,7 @@
 `-----------------------------'
 ```
 ---
-I'm Yash Garg, a developer who is passionate about new web/android technologies and open source.
+I'm Yash Garg, a developer who is passionate about new web/android technologies and open source. Currently pursuing B.Tech in Electronics and Communications Engineering.
 
 - 🌱  I’m currently learning Golang ✨
 - 👯  I’m looking to collaborate on new project ideas 👨‍💻
