@@ -1,4 +1,24 @@
 ### Hey there! 👋🏻
+```
+             ,----------------,              ,---------,
+        ,-----------------------,          ,"        ,"|
+      ,"                      ,"|        ,"        ,"  |
+     +-----------------------+  |      ,"        ,"    |
+     |  .-----------------.  |  |     +---------+      |
+     |  |                 |  |  |     | -==----'|      |
+     |  |  I LOVE ARCH!   |  |  |     |         |      |
+     |  |                 |  |  |/----|`---=    |      |
+     |  |  #!/bin/bash:   |  |  |   ,/|==== ooo |      ;
+     |  |                 |  |  |  // |(((( [33]|    ,"
+     |  `-----------------'  |," .;'| |((((     |  ,"
+     +-----------------------+  ;;  | |         |,"    
+        /_)______________(_/  //'   | +---------+
+   ___________________________/___  `,
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+/_==__==========__==_ooo__ooo=_/'   /___________,"
+`-----------------------------'
+```
 ---
 <p>
   <em>
@@ -8,10 +28,9 @@
   </em>
 </p>
 
-**🌱 Currently Learning:** Golang
-
-**😄 Pronouns:** he/him/his
+- 🌱 Currently learning Golang ✨
+- 👯 Looking to collaborate on new project ideas 👨‍💻
+- 💬 Ask me about: Tech, memes, series
+- 😄 Pronouns: He/Him 🙍🏻‍♂️
 
 **Connect with me at [LinkedIN](https://www.linkedin.com/in/yash-garg-716a63164/)**
-
-![Yash's github stats](https://github-readme-stats.vercel.app/api?username=Yash-Garg&show_icons=true)
