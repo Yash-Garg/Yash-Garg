@@ -31,4 +31,4 @@
 - 👯 Looking to collaborate on new project ideas 👨‍💻
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yash-Garg&count_private=true&show_icons=true&theme=dark&hide_border=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=Yash-Garg&count_private=true&show_icons=true&title_color=333&icon_color=333)
