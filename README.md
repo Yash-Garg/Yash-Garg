@@ -15,6 +15,9 @@
 <a href="https://instagram.com/_professional_noob_/">
   <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.reddit.com/user/_Yash_Garg_">
+  <img align="left" alt="Yash's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+</a>
 <br />
 
 ### Glad to see you here! 🤩
