@@ -27,7 +27,7 @@
   I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.</i>
 </p>
 
-- 🌱 Currently learning [**Golang**](https://golang.org/) ✨
+- 🌱 Currently learning to make Android apps in Java ✨
 - 👯 Looking to collaborate on new project ideas 👨‍💻
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
 
