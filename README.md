@@ -12,7 +12,7 @@
 <a href="https://t.me/smart_geek" target="_blank">
   <img align="left" alt="Yash's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://instagram.com/_professional_noob_/" target="_blank">
+<a href="https://instagram.com/youravgcoder/" target="_blank">
   <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/_Yash_Garg_" target="_blank">
