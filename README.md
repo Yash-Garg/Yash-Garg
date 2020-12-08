@@ -24,5 +24,5 @@
 <p>
   <i>I'm <b>Yash Garg</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.akgec.ac.in/" target="_blank"> <b>Ajay Kumar Garg Engineering College</b>, Ghaziabad</a>. 
   I love to explore new technologies and leverage them to solve real-life problems ✨.
-  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Currently learning <a href="https://reactjs.org/" target="_blank"> <b>React JS</b></a> ✨ and would love to collaborate on new projects!</i>
+  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Currently learning <a href="https://flutter.dev/" target="_blank"> <b>Flutter</b></a> ✨ and would love to collaborate on new projects!</i>
 </p>
