@@ -1,28 +1,11 @@
-## Hello world! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
+![](https://github.com/Yash-Garg/Yash-Garg/blob/master/header.png)
 
-<a href="https://twitter.com/yashgarg1803" target="_blank">
-  <img align="left" alt="Yash's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/yash-garg-716a63164/" target="_blank">
-  <img align="left" alt="Yash's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/Yash-Garg" target="_blank">
-  <img align="left" alt="Yash's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/smart_geek" target="_blank">
-  <img align="left" alt="Yash's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/youravgcoder/" target="_blank">
-  <img align="left" alt="Yash's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.reddit.com/user/_Yash_Garg_" target="_blank">
-  <img align="left" alt="Yash's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<br />
+### Hey 👋, I'm Yash Garg.
 
-### Glad to see you here! 🤩
-<p>
-  <i>I'm <b>Yash Garg</b>, a 2nd Year undergraduate pursuing B.Tech 🎓 from <a href="https://www.akgec.ac.in/" target="_blank"> <b>Ajay Kumar Garg Engineering College</b>, Ghaziabad</a>. 
-  I love to explore new technologies and leverage them to solve real-life problems ✨.
-  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. Currently learning <a href="https://flutter.dev/" target="_blank"> <b>Flutter</b></a> ✨ and would love to collaborate on new projects!</i>
-</p>
+* 🧐   Interested in Backend development and Android.
+* 🎓   Pursuing B.Tech from <i><a href="https://www.akgec.ac.in/" target="_blank"> <b>Ajay Kumar Garg Engineering College</b></a></i>. 
+* 🌱   Currently learning _**Android and My syllabus :P**_
+* ✍🏻   Languages I mostly use are _**Golang, Python, HTML/CSS, C/C++ (Rarely now).**_
+* 🌐   You can find or contact me _**[here](https://linktr.ee/yashgarg)**_ !
+
+![Yash Garg's github stats](https://github-readme-stats.vercel.app/api?username=yash-garg&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
