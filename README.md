@@ -8,4 +8,4 @@
 * ✍🏻   Languages I mostly use are _**Golang, Python, HTML/CSS, C/C++ (Rarely now).**_
 * 🌐   You can find or contact me _**[here](https://linktr.ee/yashgarg)**_ !
 
-![Yash Garg's github stats](https://github-readme-stats.vercel.app/api?username=yash-garg&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true)
+![Yash Garg's github stats](https://github-readme-stats.vercel.app/api?username=yash-garg&show_icons=true&theme=buefy&count_private=true)
