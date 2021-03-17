@@ -9,4 +9,3 @@
 * ✍🏻   Languages I mostly use are _**Golang, Python, HTML/CSS, C/C++ (Rarely now).**_
 * 🌐   You can find or contact me _**[here](https://linktr.ee/yashgarg)**_ !
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=yash-garg&theme=dark)
