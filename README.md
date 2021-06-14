@@ -9,5 +9,7 @@
   <br/>
   Also, I like building beautiful Android apps in <b><a href="https://flutter.dev">Flutter</a></b> and playing around with <b><a href="https://golang.org/">GoLang</a></b>.
   <br/><br/>
-  You can contact me on <a href="https://telegram.me/smart_geek/">Telegram</a> or via <a href="yashgarg.dev@gmail.com">EMail</a>.
+  You can contact me on <a href="https://telegram.me/smart_geek/">Telegram</a> or via <a href="https://twitter.com/yashgarg1803">Twitter</a>.
+  <br/>
+  I typically respond fastest to Telegram messages. For traditional email, use <a href="mailto:yash.garg@outlook.in">yash.garg@outlook.in</a>.
 </samp></p>
