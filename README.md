@@ -1,26 +1,13 @@
-![image](https://github.com/Yash-Garg/Yash-Garg/blob/master/header.png)
+![header](https://github.com/Yash-Garg/Yash-Garg/blob/master/header.png)
 
-<!--START_SECTION_PROFILE_VIEWS:readme-info-->
-**✨ 8 people were here!**
+<p align="center"><samp>Hello there! I'm <b>Yash</b>. (How come you are here?)</samp></p>
 
-
-<!--END_SECTION_PROFILE_VIEWS:readme-info-->
-
-<!--START_CONTRIBUTIONS:readme-info-->
-**🏆 1,021 Contributions in year 2021**
-
-
-<!--END_CONTRIBUTIONS:readme-info-->
-
-<!--START_SECTION_DAILY_COMMIT:readme-info-->
-**I'm a night 🦉** 
-
-| | | | |
-| --- | --- | --- | --- |
-|🌞 Morning                |63 commits          |![](https://via.placeholder.com/28x22/000000/000000?text=+)![](https://via.placeholder.com/372x22/b8b8b8/b8b8b8?=text=+)|7.42%|
-|🌆 Daytime                |241 commits         |![](https://via.placeholder.com/112x22/000000/000000?text=+)![](https://via.placeholder.com/288x22/b8b8b8/b8b8b8?=text=+)|28.39%|
-|🌃 Evening                |338 commits         |![](https://via.placeholder.com/160x22/000000/000000?text=+)![](https://via.placeholder.com/240x22/b8b8b8/b8b8b8?=text=+)|39.81%|
-|🌙 Night                  |207 commits         |![](https://via.placeholder.com/96x22/000000/000000?text=+)![](https://via.placeholder.com/304x22/b8b8b8/b8b8b8?=text=+)|24.38%|
-| | | | |
-
-<!--END_SECTION_DAILY_COMMIT:readme-info-->
+<p align="center"><samp>
+  I'm a 19 year old Developer living in India, pursuing B.Tech in Electronics and Communication Engineering.
+  <br/>
+  Maintaining <a href="https://project404.co/">Project 404 - Main</a> | <a href="https://downloads.project404.co/">Project 404 - Downloads</a> websites for our CAF based Android Custom ROM.
+  <br/>
+  Also, I like building beautiful Android apps in <b><a href="https://flutter.dev">Flutter</a></b> and playing around with <b><a href="https://golang.org/">GoLang</a></b>.
+  <br/><br/>
+  You can contact me on <a href="https://telegram.me/smart_geek/">Telegram</a> or via <a href="yashgarg.dev@gmail.com">EMail</a>.
+</samp></p>
