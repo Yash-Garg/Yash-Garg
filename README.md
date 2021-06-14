@@ -1,6 +1,6 @@
 ![header](https://github.com/Yash-Garg/Yash-Garg/blob/master/header.png)
 
-<p align="center"><samp>Hello there! I'm <b>Yash</b>. (How come you are here?)</samp></p>
+<p align="center"><samp>Hello there! I'm <b>Yash</b>. (How are you here?)</samp></p>
 
 <p align="center"><samp>
   I'm a 19 year old Developer living in India, pursuing B.Tech in Electronics and Communication Engineering.
