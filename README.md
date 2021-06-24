@@ -5,7 +5,7 @@
 <p align="center"><samp>
   I'm a 19 year old Developer living in India, pursuing B.Tech in Electronics and Communication Engineering.
   <br/><br/>
-  Maintaining <a href="https://project404.co/">Project 404 - Main</a> | <a href="https://downloads.project404.co/">Project 404 - Downloads</a> websites for our CAF based Android Custom ROM.
+  Maintaining <a href="https://project404.us/">Project 404 - Main</a> | <a href="https://downloads.project404.us/">Project 404 - Downloads</a> websites for our CAF based Android Custom ROM.
   <br/><br/>
   Also, I like building beautiful Android apps in <b><a href="https://flutter.dev">Flutter</a></b> and playing around with <b><a href="https://golang.org/">GoLang</a></b>.
   <br/><br/>
