@@ -3,7 +3,7 @@
 <p align="center"><samp>Hello there! I'm <b>Yash</b>. (How are you here?)</samp></p>
 
 <p align="center"><samp>
-  I'm a 19 year old Android app developer living in India, pursuing B.Tech in Electronics and Communication Engineering.
+  I'm a 19 year old Android app developer living in India, pursuing B.Tech in Electronics and Communication Engineering. Currently learning Native Android Development using Kotlin.
   <br/><br/>
   Maintaining <a href="https://project404.us/">Project 404 - Main</a> | <a href="https://downloads.project404.us/">Project 404 - Downloads</a> websites for our CAF based Android Custom ROM.
   <br/><br/>
