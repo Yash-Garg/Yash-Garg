@@ -1,13 +1,9 @@
-![header](https://github.com/Yash-Garg/Yash-Garg/blob/master/header.png)
+<p><samp>Hello there 👋 I'm <b>Yash Garg</b>.</samp></p>
 
-<p align="center"><samp>Hello there! I'm <b>Yash</b>. (How are you here?)</samp></p>
-
-<p align="center"><samp>
-  I'm a 19 year old Android app developer living in India, pursuing B.Tech in Electronics and Communication Engineering. Currently learning Native Android Development using Kotlin.
+<p><samp>
+  I'm a 19 year old Android & Web developer living in India, working at <a href="https://redcarpet.ai/">RedCarpetUp</a>. Burning my free time on learning Android Development using <a href="https://kotlinlang.org">Kotlin</a>.
   <br/><br/>
-  Maintaining <a href="https://project404.us/">Project 404 - Main</a> | <a href="https://downloads.project404.us/">Project 404 - Downloads</a> websites for our CAF based Android Custom ROM.
-  <br/><br/>
-  Also, I like building beautiful Android apps in <b><a href="https://flutter.dev">Flutter</a></b> and playing around with <b><a href="https://golang.org/">GoLang</a></b>.
+  I am a Flutter and Go enthusiast, so you might find me making many projects involving those. Also, I maintain <a href="https://project404.us/">Project 404 - Main</a> | <a href="https://downloads.project404.us/">Project 404 - Downloads</a> websites for our CAF based Android Custom ROM.
   <br/><br/>
   You can contact me on <a href="https://telegram.me/smart_geek/">Telegram</a> or via <a href="https://twitter.com/yashgarg1803">Twitter</a>.
   I typically respond fastest to Telegram messages.
