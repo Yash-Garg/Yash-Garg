@@ -1,5 +1,7 @@
 <p><samp>Hello there 👋 I'm <b>Yash Garg</b>.</samp></p>
 
+<img src="https://komarev.com/ghpvc/?username=Yash-Garg&color=blueviolet" />
+
 <p><samp>
   I'm a 19 year old Android developer living in India, working at <a href="https://redcarpet.ai/">RedCarpetUp</a>. Burning my free time on learning <a href="https://kotlinlang.org">Kotlin</a>.
   <br/><br/>
