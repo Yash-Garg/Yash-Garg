@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=Yash-Garg&color=blueviolet" />
 
 <p><samp>
-  I'm a Android developer living in India. Burning my free time on <a href="https://kotlinlang.org">Kotlin</a> & <a href="https://rust-lang.org/">Rust</a>.
+  A passionate Android developer living in India. Burning my free time on <a href="https://kotlinlang.org">Kotlin</a> & <a href="https://rust-lang.org/">Rust</a>.
   <br/><br/>
   I am a <a href="https://flutter.dev">Flutter</a> and <a href="https://golang.org/">Go</a> enthusiast, so you might find me making many projects involving those (and other random APIs, Bots & Websites).
   <br/><br/>
