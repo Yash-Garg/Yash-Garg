@@ -7,7 +7,7 @@
   <br/><br/>
   I am into <a href="https://flutter.dev">Flutter</a> and <a href="https://golang.org/">Go</a> as well, so you might find me making many projects involving those (and other random APIs, Bots & Websites).
   <br/><br/>
-  Also, I maintain <a href="https://project404.us/">Main</a> & <a href="https://downloads.project404.us/">Downloads</a> website for our CAF based Android Custom ROM named Project 404.
+  Also, I maintain <a href="https://project404.xyz/">Main</a> & <a href="https://dl.project404.xyz/">Downloads</a> website for our CAF based Android Custom ROM named Project 404.
   <br/><br/>
   You can contact me on <a href="https://telegram.me/smart_geek/">Telegram</a> or via <a href="https://twitter.com/yashgarg1803">Twitter</a>.
   I typically respond fastest to Telegram messages.
