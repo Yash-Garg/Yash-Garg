@@ -8,6 +8,8 @@ I frequently contribute to Open Source, and everything I build for myself is out
 
 Recently, I've been exploring and learning more about [Gradle](https://gradle.org/) and [Jetpack Compose](https://developer.android.com/jetpack/compose).
 
+For more details you can find the latest version of [my resume here](https://yashgarg.dev/resume.pdf).
+
 ### Commonly used tools
 
 - [Visual Studio Code](https://code.visualstudio.com/)
