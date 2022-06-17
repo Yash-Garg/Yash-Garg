@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Yash Garg, a 20 year old 📱 Android developer living in India. I currently work 🛠️ at [Vauld](https://vauld.com) as an Android Engineer.
+I'm Yash Garg, a 20 year old 📱 Android developer living in India.
 
 ![Stalkers](https://komarev.com/ghpvc/?username=Yash-Garg&color=blueviolet)
 
