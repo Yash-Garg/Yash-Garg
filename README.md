@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Yash Garg, a 20 year old 📱 Android developer living in India.
+I'm Yash Garg, a 20 year old 📱 Android developer currently working at [Murena](https://murena.com).
 
 [![Google DevLibrary](https://img.shields.io/badge/Google%20DevLibrary-Yash%20Garg-brightgreen?style=flat&logo=android)](https://yashgarg.dev/devlibrary) ![Stalkers](https://komarev.com/ghpvc/?username=Yash-Garg&color=blueviolet)
 
