@@ -20,6 +20,8 @@ For more details you can find the latest version of [my resume here](https://yas
 - [Powershell](https://github.com/PowerShell/PowerShell)
 - [Postman](https://www.postman.com/)
 
+Check out [dotfiles/uses](https://github.com/Yash-Garg/dotfiles#uses) for the complete list.
+
 ### Contact
 
 You can contact me on [Telegram](https://telegram.me/smart_geek/) or via [Twitter](https://twitter.com/yashgarg1803). I typically respond fastest to Telegram messages.
