@@ -20,7 +20,7 @@ For more details you can find the latest version of [my resume here](https://yas
 - [Powershell](https://github.com/PowerShell/PowerShell)
 - [Postman](https://www.postman.com/)
 
-Check out [dotfiles/uses](https://github.com/Yash-Garg/dotfiles#uses) for the complete list.
+Check out [dotfiles](https://github.com/Yash-Garg/Yash-Garg/blob/master/README.md) for the complete list.
 
 ### Contact
 
