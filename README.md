@@ -1,6 +1,6 @@
 ### Hey there! 👋
 
-I'm Yash, a 21 year old Software Engineer, currently working as an independent contractor for [Murena](https://murena.com).
+I'm Yash, a 21 year old Software Engineer, currently working at [Dyte](https://dyte.io).
 
 [![Google DevLibrary](https://img.shields.io/badge/Google%20DevLibrary-Yash%20Garg-brightgreen?style=flat&logo=android)](https://yashgarg.dev/devlibrary) ![Stalkers](https://komarev.com/ghpvc/?username=Yash-Garg&color=blueviolet)
 
